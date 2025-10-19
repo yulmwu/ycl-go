@@ -1,0 +1,16 @@
+.git
+.gitignore
+
+/bin
+/build
+/dist
+/out
+*.test
+*.prof
+*.cover
+coverage.out
+
+.vscode
+.idea
+.DS_Store
+Thumbs.db
