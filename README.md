@@ -87,6 +87,10 @@ another_value_2 = @upper(my_object.field4[0]) + ' is the answer.'
 
 (TODO)
 
+# How it works?
+
+(TODO)
+
 ---
 
 (TODO)
